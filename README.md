@@ -7,3 +7,8 @@ Our idea is to make a club for Robotics & Coding in which we can push some inter
 
 ## Benefits-
 If you are interested in robotic science or computers science or you see your future in the worlds of robotics, you can come to our club and give some contribution to enhance the knowledge for you and others in technology.
+
+## About Us
+### Gmail - Exprescobotics@gmail.com
+### Phone no- 
+### 9315357085
