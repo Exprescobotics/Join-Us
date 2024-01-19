@@ -12,3 +12,6 @@ If you are interested in robotic science or computers science or you see your fu
 ### Gmail - Exprescobotics@gmail.com
 ### Phone no- 
 ### 9315357085
+<a href="https://exprescobotics.netlify.app/">Click here for more info.</a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSey7a1F9uDobeRz0HErs5eZvSdc2gNUcCxZCmEmDP1XwMrRfg/viewform">Click here to fill the form and join our group.</a>
+
