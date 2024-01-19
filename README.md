@@ -15,7 +15,7 @@ Our idea is to make a club for Robotics & Coding in which we can push some inter
 If you are interested in robotic science or computers science or you see your future in the worlds of robotics, you can come to our club and give some contribution to enhance the knowledge for you and others in technology.
 
 ## About Us
- <a href="exprescobotics@gmail.com">Send email</a>
+### Gmail - exprescobotics@gmail.com
 ### Phone no- 
 ### 9315357085
 <a href="https://exprescobotics.netlify.app/">Click here for more info.</a><br>
