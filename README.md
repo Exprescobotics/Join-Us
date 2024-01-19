@@ -1,5 +1,5 @@
 <head>
-  <title>ExpresCobotics</title>
+  
   <link rel="icon" type="image/x-icon" href="C:\Users\USER\OneDrive\Documents\eXPREScOBOTICS">
 </head>
 
